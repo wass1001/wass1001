@@ -27,4 +27,4 @@
 wass1001/wass1001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<a href="https://app.daily.dev/ba3bol"><img src="https://api.daily.dev/devcards/v2/rdDIkMSP6O3tPfurPzaef.png?r=qyv" width="356" alt="ba3bol's Dev Card"/></a>
+<a href="https://app.daily.dev/ba3bol"><img src="https://api.daily.dev/devcards/v2/rdDIkMSP6O3tPfurPzaef.png?type=default&r=vk9" width="356" alt="ba3bol's Dev Card"/></a>
